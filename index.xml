@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leo Balduf</title>
+    <link>https://leobalduf.com/</link>
+    <description>Recent content on Leo Balduf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Nov 2018 23:55:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://leobalduf.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me and My Art</title>
+      <link>https://leobalduf.com/about/</link>
+      <pubDate>Mon, 26 Nov 2018 23:55:05 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/about/</guid>
+      <description>I&amp;rsquo;m a student doing my Masters in Computer Science in Berlin. I discovered generative art during my time as a visiting student in the US, where I only had a laptop and could not spend my time playing video games.
+Generative art, for me, is a form of computer art that is produced by writing programs to generate images. These programs usually contain a set of rules and directives, constraints, maybe a few hand-crafted designs, a few colors palettes, etc.</description>
+    </item>
+    
+    <item>
+      <title>Sketch005</title>
+      <link>https://leobalduf.com/series/sketch005/</link>
+      <pubDate>Mon, 26 Nov 2018 20:47:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/sketch005/</guid>
+      <description>Name: sketch005
+Year: 2018
+Description:
+This series uses a noise field to orient and displace triangles.
+When scaled correctly and time is applied, the result is a wave-like animation in real-time.
+The images are frames of the animation, which try to capture the lifelike movements.
+The technique is explored on neutral, grid-like setups as well as settings in which the triangles are attracted to, or repelled by, some part of the image.</description>
+    </item>
+    
+    <item>
+      <title>Sketch004</title>
+      <link>https://leobalduf.com/series/sketch004/</link>
+      <pubDate>Mon, 26 Nov 2018 20:46:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/sketch004/</guid>
+      <description>Name: sketch004
+Year: 2018
+Description:
+This was originally a poster for a birthday party of friends.
+The image contains a collectino of mostly German words connected to the party.
+It was later repurposed for public display by removing any identifying information from the image.</description>
+    </item>
+    
+    <item>
+      <title>Sketch003</title>
+      <link>https://leobalduf.com/series/sketch003/</link>
+      <pubDate>Mon, 26 Nov 2018 20:45:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/sketch003/</guid>
+      <description>Name: sketch003
+Year: 2018
+Description:
+This series started as a visualization of the CS-version of a tree.
+Our trees have one root at the top, a number of branches in the middle, and finally leaves on the tips of branches.
+Trees are generated randomly and represented using text.
+(Many of the outputs are useless - they grow out of the frame, grow in a loop-like fashion back down to the root, etc.</description>
+    </item>
+    
+    <item>
+      <title>Sketch002</title>
+      <link>https://leobalduf.com/series/sketch002/</link>
+      <pubDate>Mon, 26 Nov 2018 20:44:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/sketch002/</guid>
+      <description>Name: sketch002
+Year: 2018
+Description:
+This series explores excessive post-processing of 3D models to the point of no recognition.
+The underlying model consists of randomly moving and rotating cubes in 3D space.
+The model is first projected onto a 2D plane and then repeatedly rearranged, displaced, and mirrored.</description>
+    </item>
+    
+    <item>
+      <title>Sketch001</title>
+      <link>https://leobalduf.com/series/sketch001/</link>
+      <pubDate>Mon, 26 Nov 2018 20:43:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/sketch001/</guid>
+      <description>Name: sketch001
+Year: 2018
+Description:
+This series was created using a rule-based approach.
+A number of small circles are drawn in random locations of the image.
+These circles then grow larger until any two of them touch.
+Of the two, one is eliminated through random choice.
+The survivor continues to grow larger, whereas the eliminated restarts as a small circle in a new random location.</description>
+    </item>
+    
+    <item>
+      <title>LineReplica</title>
+      <link>https://leobalduf.com/series/linereplica/</link>
+      <pubDate>Sun, 25 Nov 2018 20:44:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/linereplica/</guid>
+      <description>Name: lineReplica
+Year: 2017?
+Description:
+This series is an experiment about approximating images using geometric primitives, mostly lines.
+The thing about it is that the program brute-forced the approximation by adding one line every frame, selecting from ~50 lines, seeing which one got the working image closest to the original.
+Because of that, I could only run it on very low-resolution images, but it produces vector images.
+If I then scale those up again, you see interesting effects which were not present in the original.</description>
+    </item>
+    
+    <item>
+      <title>Recursive</title>
+      <link>https://leobalduf.com/series/recursive/</link>
+      <pubDate>Sun, 25 Nov 2018 20:43:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/series/recursive/</guid>
+      <description>Name: recursive
+Year: 2016
+Description:
+This series explores the concept of recursion in computer programming, applied to line art.
+The images were produced using only triangles, which are drawn inside each other recursively.
+Even though they are drawn in 2D, the images exhibit an illusion of three dimensional structures when viewed from a distance.</description>
+    </item>
+    
+  </channel>
+</rss>
