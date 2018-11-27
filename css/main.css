@@ -3518,27 +3518,27 @@
 				opacity: 0.75;
 			}
 
-		#banner.style1:after {
+		#banner.style10:after {
 			background-color: #6fc3df;
 		}
 
-		#banner.style2:after {
+		#banner.style20:after {
 			background-color: #8d82c4;
 		}
 
-		#banner.style3:after {
+		#banner.style30:after {
 			background-color: #ec8d81;
 		}
 
-		#banner.style4:after {
+		#banner.style40:after {
 			background-color: #e7b788;
 		}
 
-		#banner.style5:after {
+		#banner.style50:after {
 			background-color: #8ea9e8;
 		}
 
-		#banner.style6:after {
+		#banner.style60:after {
 			background-color: #87c5a4;
 		}
 
