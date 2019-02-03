@@ -6,10 +6,24 @@
     <description>Recent content on Leo Balduf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Nov 2018 23:55:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 20:47:43 +0100</lastBuildDate>
     
 	<atom:link href="https://leobalduf.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Folds</title>
+      <link>https://leobalduf.com/projects/folds/</link>
+      <pubDate>Sat, 02 Feb 2019 20:47:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/projects/folds/</guid>
+      <description>Name: Folds
+Year: 2019
+Description:
+This project started out as an attempt to produce depth in a two-dimensional drawing.
+The idea, initially, was to use a 2D grid of squares. Then, by displacing just one row of corners across the entire grid, it would look like you had a surface in 3D with a fold in it. That&amp;rsquo;s where the name comes from.
+The project went from just one fold to multiple folds.</description>
+    </item>
     
     <item>
       <title>About Me and My Art</title>

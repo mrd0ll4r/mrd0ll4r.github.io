@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leobalduf.com/projects/folds/</loc>
+    <lastmod>2019-02-02T20:47:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leobalduf.com/about/</loc>
     <lastmod>2018-11-26T23:55:05+01:00</lastmod>
   </url>
@@ -49,13 +54,13 @@
   
   <url>
     <loc>https://leobalduf.com/</loc>
-    <lastmod>2018-11-26T23:55:05+01:00</lastmod>
+    <lastmod>2019-02-02T20:47:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leobalduf.com/projects/</loc>
-    <lastmod>2018-11-26T20:47:43+01:00</lastmod>
+    <lastmod>2019-02-02T20:47:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
