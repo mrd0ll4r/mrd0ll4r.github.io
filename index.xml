@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Fabric</title>
+      <link>https://leobalduf.com/projects/fabric/</link>
+      <pubDate>Sat, 02 Feb 2019 20:47:43 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/projects/fabric/</guid>
+      <description>Name: Fabric
+Year: 2019
+Description:
+This series uses Bézier curves drawn in coordination to achieve an effect of fabric wavy-ness.
+Different shapes, colorizations, and styles of drawing the curves were explored.
+The effect of wavy-ness and fabricy-ness differs a lot depending on the transparency of the curves and the number of curves used. Colors were chosen from photographs or digital illustrations by plotting a line through them randomly and sampling colors across that line.</description>
+    </item>
+    
+    <item>
       <title>Folds</title>
       <link>https://leobalduf.com/projects/folds/</link>
       <pubDate>Sat, 02 Feb 2019 20:47:43 +0100</pubDate>
