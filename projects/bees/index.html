@@ -1,5 +1,6 @@
+<!DOCTYPE HTML>
 <html>
-<!-- Header -->
+
     <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +8,7 @@
 	<meta name="description" content="Generative Art">
 	<meta name="author" content="Leo Balduf">
 	<meta name="generator" content="Hugo 0.40.1" />
-	<title>Tags &middot; Leo Balduf</title>
+	<title>Bees &middot; Leo Balduf</title>
 	<!-- Stylesheets -->
 	
 	<link rel="stylesheet" href="https://leobalduf.com/css/main.css"/>
@@ -31,13 +32,12 @@
 	<script src="js/ie/html5shiv.jsrespond.min.js"></script>
 	<![endif]-->
 </head>
-
     <body>
 
     <!-- Wrapper -->
         <div id="wrapper">
 
-        <!-- Header -->
+            <!-- Header -->
     <header id="header" class="alt">
         <a href="https://leobalduf.com/" class="logo"><strong>Leo Balduf</strong> <span>Generative Art</span></a>
         <nav>
@@ -64,28 +64,67 @@
     </nav>
 
         <!-- Main -->
-            <div id="main">
+            <div id="main" class="alt">
 
-                <section id="banner" class="style2">
-                    <div class="inner">
-			
-                        <header class="major">
-                            <h1>Tags</h1>
-                        </header>
-                        <div class="content">
+                
+                    <section id="one">
+                        <div class="inner">
+                            <header class="major">
+                                <h1>Bees</h1>
+                            </header>
                             
-                        </div>
-                    </div>
-                </section>
+                                <span class="image main"><img src="/img/projects/bees/bees_1661862038231.jpg" alt="" /></span>
+                            
+                            <p>Name: bees<br />
+Year: 2022<br />
+Description:<br />
+I was thinking about how bees behave.
+I figured that they probably go out looking for food, and return to the hive once they are full (of food?) or tired.
+So I started to write out rules of how bees might navigate a 2D world.
+I gave them food sources as targets, which they fly towards and pick up, and a hive location to periodically return to.
+To make their flights look more natural, I made it so that they cannot turn on the spot, i.e., they have some (large) turn radius.
+Food sources disappear once a bee picks them up, which causes other bees headed for the same location to veer off.
+Later on, I introduced obstacles, randomized bee movement, and refined the navigation mechanisms.</p>
 
-                <section id="two" class="spotlights">
-                    
-                </section>
+<p>Initial attempts show mostly straight lines, very visible turn radii, and a bias towards the right side, probably due to a programming error:
+The straight lines are an artifact of how the bees navigate back to the hive.</p>
+
+<p><img src="bees_1661795728619.jpg" alt="" />
+<img src="bees_1661796051283.jpg" alt="" /></p>
+
+<p>First refinements included better navigation towards the hive and better pathfinding in general.
+This turned out to be(e) so good that all bees clump together and follow the same path.
+The resulting images look like long-exposure flashlight drawings.</p>
+
+<p><img src="bees_1661798336382.jpg" alt="" />
+<img src="bees_1661798624654.jpg" alt="" /></p>
+
+<p>Adding more randomness to the navigation, as well as randomizing bee starting locations, led to much improved results.
+In addition, a different color scheme was explored.</p>
+
+<p><img src="bees_1661799492238.jpg" alt="" />
+<img src="bees_1661799799799.jpg" alt="" />
+<img src="bees_1661860439882.jpg" alt="" /></p>
+
+<p>Finally, rendering was improved, and various parameters were explored.</p>
+
+<p><img src="bees_1661861069106.jpg" alt="" />
+<img src="bees_1661861160604.jpg" alt="" />
+<img src="bees_1661861663367.jpg" alt="" />
+<img src="bees_1661861684484.jpg" alt="" />
+<img src="bees_1661882356470.jpg" alt="" />
+<img src="bees_1661882983744.jpg" alt="" />
+<img src="bees_1661886478083.jpg" alt="" /></p>
+
+                        </div>
+                    </section>
+            <!-- Disqus Inject -->
+                
             </div>
             
         <!-- Footer -->
-			
-				<!-- Footer -->
+            
+                <!-- Footer -->
     <footer id="footer">
         <div class="inner">
             <ul class="icons">
@@ -107,7 +146,6 @@
     </footer>
 
             
-        
         </div>
 
     <!-- Scripts -->
@@ -127,6 +165,6 @@
     
 
     
-        
+
     </body>
 </html>

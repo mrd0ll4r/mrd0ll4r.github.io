@@ -6,10 +6,22 @@
     <description>Recent content on Leo Balduf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 20:47:43 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://leobalduf.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bees</title>
+      <link>https://leobalduf.com/projects/bees/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://leobalduf.com/projects/bees/</guid>
+      <description>Name: bees
+Year: 2022
+Description:
+I was thinking about how bees behave. I figured that they probably go out looking for food, and return to the hive once they are full (of food?) or tired. So I started to write out rules of how bees might navigate a 2D world. I gave them food sources as targets, which they fly towards and pick up, and a hive location to periodically return to.</description>
+    </item>
     
     <item>
       <title>Fabric</title>
@@ -45,8 +57,8 @@ The project went from just one fold to multiple folds.</description>
       <pubDate>Mon, 26 Nov 2018 23:55:05 +0100</pubDate>
       
       <guid>https://leobalduf.com/about/</guid>
-      <description>I&amp;rsquo;m a student doing my Masters in Computer Science in Berlin. I discovered generative art during my time as a visiting student in the US, where I only had a laptop and could not spend my time playing video games.
-Generative computer art, for me, is a form of computer art that is produced by writing programs to generate images with some degree auf autonomy. These programs usually contain a set of rules and directives, constraints, maybe a few hand-crafted designs, a few colors palettes, etc.</description>
+      <description>I&amp;rsquo;m a student doing my PhD in Computer Science in Berlin. I discovered generative art during my time as a visiting student in the US, where I only had a laptop and could not spend my time playing video games.
+Generative (computer) art, for me, is art that is produced by writing programs to generate images with some degree of autonomy. These programs usually contain a set of rules and directives, constraints, maybe a few hand-crafted designs, a few colors palettes, etc.</description>
     </item>
     
     <item>
